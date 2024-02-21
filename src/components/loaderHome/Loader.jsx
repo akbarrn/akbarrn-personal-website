@@ -65,14 +65,14 @@ const Loader = () => {
           }}
           className="loader__text"
         >
-          こんにちは
+          你好
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}
           animate={{ opacity: 1, transition: { delay: 1.7 } }}
           className="loader__text"
         >
-          Привет
+          こんにちは
         </motion.span>
       </div>
     </motion.section>
