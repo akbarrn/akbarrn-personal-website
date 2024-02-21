@@ -16,8 +16,8 @@ const Footer = () => {
             <Link to="/me">Get in touch</Link>
           </div>
           <div className="footer__contact">
-            <a href="mailto:setiawanakbar650@gmail.com">
-              setiawanakbar650@gmail.com
+            <a href="mailto:officialakbar94@gmail.com">
+              officialakbar94@gmail.com
             </a>
             <a
               target="_blank"
