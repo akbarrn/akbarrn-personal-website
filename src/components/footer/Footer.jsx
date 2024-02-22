@@ -19,13 +19,6 @@ const Footer = () => {
             <a href="mailto:officialakbar94@gmail.com">
               officialakbar94@gmail.com
             </a>
-            <a
-              target="_blank"
-              rel="noreferrer noopener"
-              href="https://wa.me/6285775284112/?text=Hello%20"
-            >
-              +62 857 7528 4112
-            </a>
           </div>
         </div>
         <div className="footer__info">

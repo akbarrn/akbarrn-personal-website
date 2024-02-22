@@ -36,13 +36,6 @@ const MoreInfo = () => {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://wa.me/6285775284112/?text=Hello%20"
-            >
-              WhatsApp <i class="uil uil-arrow-up-right"></i>
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer noopener"
               href="https://instagram.com/akbrrnh"
             >
               Instagram <i class="uil uil-arrow-up-right"></i>
