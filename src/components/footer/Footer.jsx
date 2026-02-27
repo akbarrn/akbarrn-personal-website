@@ -56,7 +56,7 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://www.tiktok.com/@bboyy_."
+              href="https://www.tiktok.com/@akbrrnh"
             >
               TikTok
             </a>
@@ -68,3 +68,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

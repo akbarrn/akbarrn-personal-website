@@ -22,7 +22,7 @@
 }
 
 .header__image {
-  background: url("../../assets/profileImage.jpg");
+  background: url("../../assets/foto.jpg") no-repeat center;
   position: end;
   width: 500px;
   height: 600px;

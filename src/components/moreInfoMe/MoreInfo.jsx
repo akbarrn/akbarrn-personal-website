@@ -1,7 +1,7 @@
 import React from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-import picture from "../../assets/profileImage.jpg";
+import picture from "../../assets/foto.jpg";
 
 import "./moreInfo.css";
 import { Link } from "react-router-dom";
@@ -25,7 +25,7 @@ const MoreInfo = () => {
               I am a software engineer using a JavaScript tech stack, namely
               MERN stack (MongoDB, Express JS, React JS, and Node JS). I also
               have an interest in user interface and user experience, have some
-              experience in design and illustration.
+              experience in videography, photography, and design.
             </span>
           </div>
           <a href="#info__contact">
@@ -43,7 +43,7 @@ const MoreInfo = () => {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="www.linkedin.com/in/akbarrnh"
+              href="https://linkedin.com/in/akbarrnh"
             >
               LinkedIn <i class="uil uil-arrow-up-right"></i>
             </a>
@@ -153,6 +153,12 @@ const MoreInfo = () => {
             <div className="info__detail">
               <a> 
                 Intern - IT Support - PT. Elnusa Land Sejahtera{" "}
+              </a>
+              <a> 
+                Freelance - Videographer{" "}
+              </a>
+              <a> 
+                Freelance - Photographer{" "}
               </a>
             </div>
           </div>
