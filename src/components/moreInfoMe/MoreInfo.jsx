@@ -1,7 +1,7 @@
 import React from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-import picture from "../../assets/foto.jpg";
+import picture from "../../assets/profileIma.jpg";
 
 import "./moreInfo.css";
 import { Link } from "react-router-dom";
@@ -56,7 +56,15 @@ const MoreInfo = () => {
               <a
                 target="_blank"
                 rel="noreferrer noopener"
-                href="https://drive.google.com/file/d/1TJVLlAU3Ir4gZm3XwSVcGF4hBO4svS9G/view?usp=sharing"
+                href="https://drive.google.com/file/d/1buqROpB1BN1VrzVPTM-7hhIeO7lyEWxQ/view?usp=sharing"
+              >
+                Certificate of Competence{" "}
+                <i class="uil uil-arrow-up-right"></i>
+              </a>
+              <a
+                target="_blank"
+                rel="noreferrer noopener"
+                href="https://drive.google.com/file/d/1CP1YIARdlg8JK-B4vdlBF7ICQv-zthvq/view?usp=sharing"
               >
                 Internship Certificate{" "}
                 <i class="uil uil-arrow-up-right"></i>
@@ -153,6 +161,9 @@ const MoreInfo = () => {
             <div className="info__detail">
               <a> 
                 Intern - IT Support - PT. Elnusa Land Sejahtera{" "}
+              </a>
+              <a> 
+                Vice Chairman - Rohani Islam - SMK Plus Pelita Nusantara{" "}
               </a>
               <a> 
                 Freelance - Videographer{" "}

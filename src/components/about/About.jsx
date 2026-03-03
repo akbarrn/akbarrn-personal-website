@@ -6,11 +6,11 @@ const About = () => {
   return (
     <section className="about" id="about">
       <div className="about__container">
-        <div className="about__typography">
+        {/* <div className="about__typography">
           <span>about me</span>
           <span>about me</span>
           <span>about me</span>
-        </div>
+        </div> */}
         <div className="about__text">
           <span>
             Hello! I am Akbar, I am passionate about
