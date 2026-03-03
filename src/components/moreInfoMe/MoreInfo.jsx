@@ -51,6 +51,19 @@ const MoreInfo = () => {
         </div>
         <div className="info__achieve">
           <div className="info__item">
+            <h1>Another Portfolio</h1>
+            <div className="info__detail">
+              <a
+                target="_blank"
+                rel="noreferrer noopener"
+                href="https://akbrrnportfolio.my.canva.site"
+              >
+                Creative Media Portfolio{" "}
+                <i class="uil uil-arrow-up-right"></i>
+              </a>
+            </div>
+          </div>
+          <div className="info__item">
             <h1>Certificate</h1>
             <div className="info__detail">
               <a
